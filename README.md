@@ -14,7 +14,7 @@ For testing multiple agents in the same workspace.
 
 # AI disclosure
 /docs/modules.md is AI generated with info drom from 
-and https://github.com/ggml-org/llama.cpp/wiki/Modules
+https://github.com/ggml-org/llama.cpp/wiki/Modules
 and
 https://github.com/qoomon/git-conventional-commits
 
