@@ -1,0 +1,8 @@
+# collaborators can optionally add themselves here to indicate their availability for reviewing related PRs
+# multiplie collaborators per item can be specified
+
+/CONTRIBUTING.md                        @Arvedo
+/LICENSE                                @TODO:CHOOSE!
+/AGENTS.md                              @Arvedo
+/CLAUDE.md                              @Arvedo
+/CONTRIBUTING.md                        @Arvedo
