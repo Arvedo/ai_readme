@@ -12,13 +12,13 @@ This repository contains guidelines for a strict no-AI approach to code contribu
 ## live_die_ralphete ONLY USE THIS IF YOU UNDERSTAND THE DANGER!
 For testing multiple agents in the same workspace.
 
-## AI disclosure
+# AI disclosure
 /docs/modules.md is AI generated with info drom from 
 and https://github.com/ggml-org/llama.cpp/wiki/Modules
 and
 https://github.com/qoomon/git-conventional-commits
 
-### AI Generated:
+# AI Generated:
 
 - `strict_no` ⛔ — Forbids AI use entirely. For critical, security-sensitive, or legally sensitive code where human authorship and provenance must be guaranteed.
 - `human_accountability_minor` ⚠️ — Allows AI assistance for less than 50% of the contribution. The human must remain the primary author and reviewer.
