@@ -70,4 +70,4 @@ https://github.com/qoomon/git-conventional-commits
 | [docs/modules.md](live_die_ralphete/docs/modules.md#L20) | 20 | You can add or remove scopes to match your project |
 | [PERSISTANCE.md](live_die_ralphete/PERSISTANCE.md#L31) | 31 | (deferred TODO template — document reason for deferral) |
 
-> **Note:** When a TODO is resolved, mark it done here and link the commit or PR. Do not rely on text-searching for `TODO` — keep this table up to date manually.
+> **Note:** When a TODO is resolved, mark it done here and link the commit or PR. Do not rely on text-searching for `TODO` — keep this table up to date manually
